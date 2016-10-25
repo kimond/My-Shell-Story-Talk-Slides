@@ -87,6 +87,7 @@ Cette séparation était plus émouvante que celle avec BASH
 + Web based configuration
 + Syntax highlighting
 + Tab Completions de ouf
++ Vi mode vraiment bien intégré
 + Et beaucoup plus...
 * Frameworks
 + Fisherman
